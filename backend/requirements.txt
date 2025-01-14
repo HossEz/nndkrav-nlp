@@ -1,4 +1,6 @@
 flask
 flask-cors
-spacy
+transformers
 scikit-learn
+spacy
+
