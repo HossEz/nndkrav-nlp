@@ -26,7 +26,7 @@ const TextProcessor = () => {
   };
 
   return (
-    <div>
+    <div className="kravuttrekking">
       <h1>Kravuttrekking med AI</h1>
       <form onSubmit={handleSubmit}>
         <textarea
